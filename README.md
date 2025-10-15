@@ -14,9 +14,13 @@ Pero aceptemos que este pecado —el de tener que alimentarnos de seres vivos pa
 Más allá de la manzana, del alimento vegetal o la proteína animal, lo que siempre nos ha acompañado es cierta inquina hacia nosotros mismos, hacia nuestra propia especie. Goya nos retrató de manera magistral en *Duelo a garrotazos*. Y eso lleva sucediendo desde el inicio del ser humano hasta nuestros días… y seguirá sucediendo.  
 
 <p align="center">
-  <img src="duelo.png" alt="Duelo a garrotazos - Francisco de Goya" style="max-width:100%; height:auto; border-radius:8px; box-shadow:0 2px 12px rgba(0,0,0,0.4);" />
+  <img src="./duelo.png" alt="Duelo a garrotazos - Francisco de Goya" width="100%">
 </p>
-<p align="center"><em>Francisco de Goya, “Duelo a garrotazos” (ca. 1820–1823). Museo del Prado, Madrid. Imagen de dominio público.</em></p>
+
+<p align="center">
+  <em>Francisco de Goya, “Duelo a garrotazos” (ca. 1820–1823). Museo del Prado, Madrid. Imagen de dominio público.</em>
+</p>
+
 
 Ahora bien, es cierto que ese podría representar nuestro peor pecado, aunque no deja de ser un juicio moral humano. Es muy probable —o al menos así lo considero— que si se ha desarrollado vida en otros planetas y ha florecido una civilización por encima de otros seres, las cosas hayan transcurrido por derroteros similares.  
 
