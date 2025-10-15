@@ -14,7 +14,7 @@ Pero aceptemos que este pecado —el de tener que alimentarnos de seres vivos pa
 Más allá de la manzana, del alimento vegetal o la proteína animal, lo que siempre nos ha acompañado es cierta inquina hacia nosotros mismos, hacia nuestra propia especie. Goya nos retrató de manera magistral en *Duelo a garrotazos*. Y eso lleva sucediendo desde el inicio del ser humano hasta nuestros días… y seguirá sucediendo.  
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Duelo_a_garrotazos_-_Francisco_de_Goya.jpg" width="600"/>
+  <img src="duelo.png" alt="Duelo a garrotazos - Francisco de Goya" style="max-width:100%; height:auto; border-radius:8px; box-shadow:0 2px 12px rgba(0,0,0,0.4);" />
 </p>
 <p align="center"><em>Francisco de Goya, “Duelo a garrotazos” (ca. 1820–1823). Museo del Prado, Madrid. Imagen de dominio público.</em></p>
 
